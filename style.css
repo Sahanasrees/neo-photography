@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+*{
+    padding: 0;
+    margin:
+}
+.container{
+    width: 80vw;
+    height: 100vh;
+    background-color: #dba7c4;
+}
+.a{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 5px;
+    margin-left: 350px;
+    width: 73vw;
+    height: 100vh;
+    border: 5px;
+    margin-top: 10px;
+  
+}
+.b{
+    background-color: #dba7c4;
+    margin-bottom: 5px;
+    width: 100vw;
+
+}
+.c{
+    background-color: #dba7c4;
+    margin-bottom: 5px;
+    width: 100vw;
+ 
+}
+.d{
+    background-color: #dba7c4;
+    margin-bottom: 5px;
+    width: 100vw;
+ 
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 200vh;
+    width: 30vw;
+    padding-left: 40px;
+}
+#firstImage{
+    width: 80vw;
+    height:70vh;
+}
+#secondImage{
+    width: 80vw;
+    height:70vh;
+}
+#firstImageName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-right: 300px;
+    font-weight: 300;
+}
+#secondImageName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-right: 300px;
+}
+#thirdImage{
+    width: 80vw;
+    height:70vh;
+}
+#fourthImage{
+    width: 80vw;
+    height:70vh;
+}
+#thirdImageName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-right: 300px;
+}
+
+#ourWork{
+    padding-left: 500px;
+    padding-top: 20px;
+    align-items: center;
+    text-align: left;
+}
+.div{
+    padding-top: 10px;
+   background-color: black;
+   width: 75vw;
+   height: 10vh;
+}
+
+#backGroundImage{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vh;
+    height:100vh;
+    width: 70vw;
+    margin-top: 10px;
+}
+#viewWork{
+    cursor: pointer;
+    text-decoration: none;
+    border: 5px solid black;
+    border-radius: 10%;
+    padding: 4px;
+    background-color: rgb(225, 139, 209);
+    color: black;
+}
+#viewWork:hover{
+    color: rgb(230, 39, 205);
+}
+#titleDescription{
+    font-weight: 100;
+}
